@@ -1,0 +1,23 @@
+main {
+  padding: 20px 20px;
+}
+
+.node {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.node:hover {
+  background: yellow;
+}
+
+.expandButton {
+  background: tomato;
+  color: white;
+  margin-left: 10px;
+  padding: 7px 15px;
+}
+
+.cursor {
+  background: turquoise;
+}
